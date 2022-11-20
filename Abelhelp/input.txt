@@ -1,0 +1,5 @@
+le 2
+jobb 5
+le 3
+bal 2
+fel 1
